@@ -1,3 +1,32 @@
+#Inicio de sesion
+1. Administrador (Acceso Total)
+Correo: admin@gym.com
+
+ID: 1
+
+Contraseña: 1234
+
+2. Propietario
+Correo: propietario@gym.com
+
+ID: 2
+
+Contraseña: 1234
+
+3. Cliente (Solo Lectura)
+Correo: cliente@gym.com
+
+ID: 3
+
+Contraseña: 1234
+
+4. Entrenador (Solo Lectura)
+Correo: entrenador@gym.com
+
+ID: 4
+
+Contraseña: 1234
+
 # Sistema de Gestión de Gimnasio - Módulo de Interfaces Gráficas
 
 ## Descripción del Proyecto
